@@ -10,7 +10,7 @@
 
 <p align="center">
 <a href="https://abufazal.netlify.app/"><img src="https://img.shields.io/badge/Explore_My_Work_%E2%86%92-050F2C?style=for-the-badge&logoColor=white" alt="Explore My Work →"></a>
-<a href="https://github.com/abufazal460?tab=repositories"><img src="https://img.shields.io/badge/View_My_Projects_%E2%86%92-050F2C?style=for-the-badge&logoColor=white" alt="View My Projects →"></a>
+<a href="https://github.com/Abu-Fazal?tab=repositories"><img src="https://img.shields.io/badge/View_My_Projects_%E2%86%92-050F2C?style=for-the-badge&logoColor=white" alt="View My Projects →"></a>
 </p>
 
 <p align="center"><img src="https://img.shields.io/badge/Location-India_Delhi-050F2C?style=for-the-badge&logoColor=white" alt="Location: India Delhi"></p>
@@ -57,17 +57,17 @@
 <img src="assets/tech/html5.svg" alt="HTML5" width="48" />&nbsp;&nbsp;&nbsp;
 <img src="assets/tech/css.svg" alt="CSS" width="48" />&nbsp;&nbsp;&nbsp;
 <img src="assets/tech/javascript.svg" alt="JavaScript" width="48" />&nbsp;&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/react-dark.svg"><img src="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/react-light.svg" alt="React" width="48" /></picture>&nbsp;&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abu-Fazal/Abu-Fazal/main/assets/tech/react-dark.svg"><img src="https://raw.githubusercontent.com/Abu-Fazal/Abu-Fazal/main/assets/tech/react-light.svg" alt="React" width="48" /></picture>&nbsp;&nbsp;&nbsp;
 <img src="assets/tech/nodedotjs.svg" alt="Node.js" width="48" />&nbsp;&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/express-dark.svg"><img src="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/express-light.svg" alt="Express.js" width="48" /></picture>&nbsp;&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abu-Fazal/Abu-Fazal/main/assets/tech/express-dark.svg"><img src="https://raw.githubusercontent.com/Abu-Fazal/Abu-Fazal/main/assets/tech/express-light.svg" alt="Express.js" width="48" /></picture>&nbsp;&nbsp;&nbsp;
 <img src="assets/tech/mongodb.svg" alt="MongoDB" width="48" />&nbsp;&nbsp;&nbsp;
 <img src="assets/tech/tailwindcss.svg" alt="Tailwind CSS" width="48" />&nbsp;&nbsp;&nbsp;
 <img src="assets/tech/vite.svg" alt="Vite" width="48" />&nbsp;&nbsp;&nbsp;
 <img src="assets/tech/git.svg" alt="Git" width="48" />&nbsp;&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/github-dark.svg"><img src="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/github-light.svg" alt="GitHub" width="48" /></picture>&nbsp;&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abu-Fazal/Abu-Fazal/main/assets/tech/github-dark.svg"><img src="https://raw.githubusercontent.com/Abu-Fazal/Abu-Fazal/main/assets/tech/github-light.svg" alt="GitHub" width="48" /></picture>&nbsp;&nbsp;&nbsp;
 <img src="assets/tech/figma.svg" alt="Figma" width="48" />&nbsp;&nbsp;&nbsp;
 <img src="assets/tech/postman.svg" alt="Postman" width="48" />&nbsp;&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/vercel-dark.svg"><img src="https://raw.githubusercontent.com/abufazal460/abufazal460/main/assets/tech/vercel-light.svg" alt="Vercel" width="48" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abu-Fazal/Abu-Fazal/main/assets/tech/vercel-dark.svg"><img src="https://raw.githubusercontent.com/Abu-Fazal/Abu-Fazal/main/assets/tech/vercel-light.svg" alt="Vercel" width="48" /></picture>
 </p>
 
 <hr>
@@ -230,7 +230,7 @@ Sabr Studio is a **freelance project** focused on an interior design and archite
 
 `>` **Live Website:** [sabrstudio.in](https://sabrstudio.in/)
 
-`>` **Source Code:** [GitHub Repository](https://github.com/abufazal460/Sabr-Studio)
+`>` **Source Code:** [GitHub Repository](https://github.com/Abu-Fazal/Sabr-Studio)
 
 ### ✨ What I Built
 
@@ -294,7 +294,7 @@ Sabr Studio represents my experience working **beyond the visual layer** — con
 **Project Type:** Freelance Project  
 **Focus:** `Full-Stack Development` · `E-commerce` · `Admin Dashboard` · `API Integration` · `Deployment`
 
-[![Visit Live Website](https://img.shields.io/badge/Visit_Live_Website-050F2C?style=for-the-badge&logoColor=white)](https://sabrstudio.in/) [![Explore Source Code](https://img.shields.io/badge/Explore_Source_Code-050F2C?style=for-the-badge&logoColor=white)](https://github.com/abufazal460/Sabr-Studio)
+[![Visit Live Website](https://img.shields.io/badge/Visit_Live_Website-050F2C?style=for-the-badge&logoColor=white)](https://sabrstudio.in/) [![Explore Source Code](https://img.shields.io/badge/Explore_Source_Code-050F2C?style=for-the-badge&logoColor=white)](https://github.com/Abu-Fazal/Sabr-Studio)
 
 <hr>
 
@@ -310,7 +310,7 @@ Jamia Academy is a **freelance website project** for a computer and skills train
 
 `>` **Live Website:** [jamiaacademy.in](https://jamiaacademy.in/)
 
-`>` **Source Code:** [GitHub Repository](https://github.com/abufazal460/Jamia-Academy)
+`>` **Source Code:** [GitHub Repository](https://github.com/Abu-Fazal/Jamia-Academy)
 
 ### ✨ What I Built
 
@@ -411,7 +411,7 @@ Jamia Academy represents my approach to building an education-focused digital ex
 **Project Type:** Freelance Project  
 **Focus:** `Frontend Development` · `UI/UX` · `Responsive Design` · `SEO` · `Web Performance` · `Deployment`
 
-[![Visit Live Website](https://img.shields.io/badge/Visit_Live_Website-050F2C?style=for-the-badge&logoColor=white)](https://jamiaacademy.in/) [![Explore Source Code](https://img.shields.io/badge/Explore_Source_Code-050F2C?style=for-the-badge&logoColor=white)](https://github.com/abufazal460/Jamia-Academy)
+[![Visit Live Website](https://img.shields.io/badge/Visit_Live_Website-050F2C?style=for-the-badge&logoColor=white)](https://jamiaacademy.in/) [![Explore Source Code](https://img.shields.io/badge/Explore_Source_Code-050F2C?style=for-the-badge&logoColor=white)](https://github.com/Abu-Fazal/Jamia-Academy)
 
 <hr>
 
