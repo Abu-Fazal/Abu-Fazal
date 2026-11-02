@@ -19,12 +19,32 @@
 
 <!-- FEATURED-REPOS:START -->
 <p align="center">
-<a href="https://github.com/Abu-Fazal/Jamia-Academy"><img alt="Jamia-Academy - JavaScript" src="https://github-readme-stats.vercel.app/api/pin/?username=Abu-Fazal&amp;repo=Jamia-Academy&amp;theme=dark" /></a>
-<a href="https://github.com/Abu-Fazal/Unite-for-Nation"><img alt="Unite-for-Nation - JavaScript" src="https://github-readme-stats.vercel.app/api/pin/?username=Abu-Fazal&amp;repo=Unite-for-Nation&amp;theme=dark" /></a>
-<a href="https://github.com/Abu-Fazal/Portfolio"><img alt="Portfolio - JavaScript" src="https://github-readme-stats.vercel.app/api/pin/?username=Abu-Fazal&amp;repo=Portfolio&amp;theme=dark" /></a>
-<a href="https://github.com/Abu-Fazal/Sabr-Studio"><img alt="Sabr-Studio - JavaScript" src="https://github-readme-stats.vercel.app/api/pin/?username=Abu-Fazal&amp;repo=Sabr-Studio&amp;theme=dark" /></a>
+<a href="https://github.com/Abu-Fazal/Jamia-Academy"><img alt="Jamia-Academy - JavaScript" src="https://github-stats-extended.vercel.app/api/pin/?username=Abu-Fazal&amp;repo=Jamia-Academy&amp;theme=dark" /></a>
+<a href="https://github.com/Abu-Fazal/Unite-for-Nation"><img alt="Unite-for-Nation - JavaScript" src="https://github-stats-extended.vercel.app/api/pin/?username=Abu-Fazal&amp;repo=Unite-for-Nation&amp;theme=dark" /></a>
+<a href="https://github.com/Abu-Fazal/Portfolio"><img alt="Portfolio - JavaScript" src="https://github-stats-extended.vercel.app/api/pin/?username=Abu-Fazal&amp;repo=Portfolio&amp;theme=dark" /></a>
+<a href="https://github.com/Abu-Fazal/Sabr-Studio"><img alt="Sabr-Studio - JavaScript" src="https://github-stats-extended.vercel.app/api/pin/?username=Abu-Fazal&amp;repo=Sabr-Studio&amp;theme=dark" /></a>
 </p>
 <!-- FEATURED-REPOS:END -->
+
+<h2 align="center">My Stack</h2>
+
+<h4 align="center">Frontend Motion &amp; Quality</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
+</p>
+
+<h4 align="center">Services &amp; Deployment</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+</p>
+
+<hr>
+
+
 
 <hr>
 
@@ -32,7 +52,7 @@
 
 |_**GitHub Stats**_|_**Top Languages**_|
 |-----------|-------------|
-|<img src="https://github-readme-stats.vercel.app/api?username=Abu-Fazal&theme=algolia&show_icons=true" width="500" height="250" alt="GitHub stats">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Fazal&theme=algolia&layout=compact&langs_count=5" alt="Top languages">|
+|<img src="https://github-stats-extended.vercel.app/api?username=Abu-Fazal&theme=algolia&show_icons=true" width="500" height="250" alt="GitHub stats">|<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abu-Fazal&theme=algolia&layout=compact&langs_count=5" alt="Top languages">|
 
 
 <hr>
