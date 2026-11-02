@@ -34,14 +34,14 @@
 
 |_**GitHub Stats**_|_**Top Languages**_|
 |-----------|-------------|
-|<img src="https://github-readme-stats.vercel.app/api?username=abufazal460&theme=algolia&show_icons=true" width="500" height="250" alt="GitHub stats">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abufazal460&theme=algolia&layout=compact&langs_count=5" alt="Top languages">|
+|<img src="https://github-readme-stats.vercel.app/api?username=Abu-Fazal&theme=algolia&show_icons=true" width="500" height="250" alt="GitHub stats">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Fazal&theme=algolia&layout=compact&langs_count=5" alt="Top languages">|
 
 
 <hr>
 
 <h3 align="center">Connect With Me:</h3>
 <p align="center">
-<a href="https://github.com/abufazal460"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/Abu-Fazal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/abu-fazal-1950703a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.fiverr.com/users/abufazal_460/"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
 <a href="https://internshala.com/internships/matching-preferences/"><img src="https://img.shields.io/badge/Internshala-lightgrey?style=for-the-badge&logoColor=white" alt="Internshala"></a>
