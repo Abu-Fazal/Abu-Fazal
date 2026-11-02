@@ -1,5 +1,3 @@
-
-
 <p align="center"><img src="assets/banner.svg" alt="Abu Fazal — Full Stack Developer" width="100%"></p>
 
 <h1 align="center">Abu Fazal</h1>
