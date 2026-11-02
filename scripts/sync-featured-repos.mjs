@@ -56,7 +56,7 @@ export function replaceRegion(readme, region) {
 
 async function main() {
   const token = process.env.GITHUB_TOKEN;
-  const login = process.env.PROFILE_LOGIN || "abufazal460";
+  const login = process.env.PROFILE_LOGIN || "Abu-Fazal";
   const path = process.env.README_PATH || "README.md";
   if (!token) throw new Error("GITHUB_TOKEN is not set");
   const repos = await fetchPinned(login, token);
