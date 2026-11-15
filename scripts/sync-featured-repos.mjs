@@ -39,7 +39,7 @@ export function buildRegion(repos, login) {
   if (repos.length === 0) return `<p align="center"><em>No pinned repositories right now.</em></p>`;
   const cards = repos.map((r) => {
     const label = [r.name, r.description, r.primaryLanguage?.name].filter(Boolean).join(" - ");
-    const card = `https://github-readme-stats.vercel.app/api/pin/?username=${encodeURIComponent(login)}&repo=${encodeURIComponent(r.name)}&theme=dark`;
+    const card = `https://github-stats-extended.vercel.app/api/pin/?username=${encodeURIComponent(login)}&repo=${encodeURIComponent(r.name)}&theme=dark`;
     return `<a href="${esc(r.url)}"><img alt="${esc(label)}" src="${esc(card)}" /></a>`;
   });
   return `<p align="center">\n${cards.join("\n")}\n</p>`;
