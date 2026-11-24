@@ -19,8 +19,8 @@
 
 <!-- FEATURED-REPOS:START -->
 <p align="center">
-<a href="https://github.com/Abu-Fazal/Jamia-Academy"><img alt="Jamia-Academy - JavaScript" src="https://github-stats-extended.vercel.app/api/pin/?username=Abu-Fazal&amp;repo=Jamia-Academy&amp;theme=dark" /></a>
-<a href="https://github.com/Abu-Fazal/Unite-for-Nation"><img alt="Unite-for-Nation - JavaScript" src="https://github-stats-extended.vercel.app/api/pin/?username=Abu-Fazal&amp;repo=Unite-for-Nation&amp;theme=dark" /></a>
+<a href="https://github.com/Abu-Fazal/Jamia-Academy"><img alt="Jamia-Academy - Official website of Jamia Academy, an offline institute. My first major full-stack freelance project, featuring a colorful dynamic design, interactive scroll-based animations, backend, database, and student certificate verification. - JavaScript" src="https://github-stats-extended.vercel.app/api/pin/?username=Abu-Fazal&amp;repo=Jamia-Academy&amp;theme=dark" /></a>
+<a href="https://github.com/Abu-Fazal/Unite-for-Nation"><img alt="Unite-for-Nation - Official website of Unite for Nation, a Human Rights Organization supporting individuals facing false accusations through legal assistance, awareness, and community support. Developed as a freelance project. - JavaScript" src="https://github-stats-extended.vercel.app/api/pin/?username=Abu-Fazal&amp;repo=Unite-for-Nation&amp;theme=dark" /></a>
 <a href="https://github.com/Abu-Fazal/Portfolio"><img alt="Portfolio - JavaScript" src="https://github-stats-extended.vercel.app/api/pin/?username=Abu-Fazal&amp;repo=Portfolio&amp;theme=dark" /></a>
 <a href="https://github.com/Abu-Fazal/Sabr-Studio"><img alt="Sabr-Studio - JavaScript" src="https://github-stats-extended.vercel.app/api/pin/?username=Abu-Fazal&amp;repo=Sabr-Studio&amp;theme=dark" /></a>
 </p>
